@@ -19,4 +19,5 @@ public class Constantes {
      public final static String ID_PAIS="id_pais";
      public final static String ID_LOCALIDAD="id_localidad";
      public final static String ID_PROVINCIA="id_provincia";
+     public final static String ID_CONTINENTE="id_continente";
 }
