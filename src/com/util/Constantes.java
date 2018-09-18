@@ -20,5 +20,6 @@ public class Constantes {
      public final static String ID_LOCALIDAD="id_localidad";
      public final static String ID_PROVINCIA="id_provincia";
      public final static String ID_CONTINENTE="id_continente";
+     public final static String ID_ues="es";
      
 }
